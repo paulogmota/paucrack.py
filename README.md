@@ -1,4 +1,4 @@
-# paucrack.py
+# pcrack.py
 Crack simples de senhas salt:hash usando wordlist
 
 Uso: 
